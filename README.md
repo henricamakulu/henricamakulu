@@ -1,7 +1,8 @@
 ## Hi, I'm Henrica 👋
 
 <!--
-**henricamakulu/henricamakulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**henricamakulu/henricamakulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
 
 Here are some ideas to get you started:
 
@@ -15,4 +16,4 @@ Today, my vision is to transform lives using data and I do this in my vocation a
 - 🌱 I’m currently learning how to implement machine learning projects
 - 📫 Here's my website: https://henricamakulu.wixsite.com/website
 - ⚡ Fun fact: I'm known as Zimbabwe's first female data scientist
--->
+
