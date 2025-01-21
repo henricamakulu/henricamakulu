@@ -1,11 +1,5 @@
 ## Hi, I'm Henrica 👋
 
-<!--
-**henricamakulu/henricamakulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
---!>
-
-Here are some ideas to get you started:
-
 Just an everyday girl from Harare Zimbabwe who loves Jesus, data and people.
 
 I always knew I wanted to change the world, I just didn't know how. From a humble background being raised by a single mother and selling sweets to get by in university to being known as Zimbabwe's first female data scientist and travelling to Silicon Valley, my journey has been nothing short of a miracle!
