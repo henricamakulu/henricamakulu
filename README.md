@@ -13,6 +13,7 @@ Today, my vision is to transform lives using data and I do this in my vocation a
 
 - I have two courses in the LinkedIn Learning library:
 
-[Navigating your data career as a millenial or post millenial](https://www.linkedin.com/learning/navigating-your-data-analytics-career-as-a-millennial-or-post-millennial/your-data-career-as-a-millennial-or-post-millennial)
+- 1️⃣ [Navigating your data career as a millenial or post millenial](https://www.linkedin.com/learning/navigating-your-data-analytics-career-as-a-millennial-or-post-millennial)
+- 2️⃣ [Microsoft Azure Data Scientist Associate DP 100 Exam Tips](https://www.linkedin.com/learning/microsoft-azure-data-scientist-associate-dp-100-exam-tips)
 
 
