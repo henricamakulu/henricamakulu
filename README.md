@@ -11,3 +11,8 @@ Today, my vision is to transform lives using data and I do this in my vocation a
 - 📫 Here's my website: https://henricamakulu.wixsite.com/website
 - ⚡ Fun fact: I'm known as Zimbabwe's first female data scientist
 
+- I have two courses in the LinkedIn Learning library:
+
+[Navigating your data career as a millenial or post millenial](https://www.linkedin.com/learning/navigating-your-data-analytics-career-as-a-millennial-or-post-millennial/your-data-career-as-a-millennial-or-post-millennial)
+
+
