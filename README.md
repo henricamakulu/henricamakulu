@@ -11,9 +11,9 @@ Today, my vision is to transform lives using data and I do this in my vocation a
 - 📫 Here's my website: https://henricamakulu.wixsite.com/website
 - ⚡ Fun fact: I'm known as Zimbabwe's first female data scientist
 
-- I have two courses in the LinkedIn Learning library:
+# I have two courses in the LinkedIn Learning library:
 
-- 1️⃣ [Navigating your data career as a millenial or post millenial](https://www.linkedin.com/learning/navigating-your-data-analytics-career-as-a-millennial-or-post-millennial)
-- 2️⃣ [Microsoft Azure Data Scientist Associate DP 100 Exam Tips](https://www.linkedin.com/learning/microsoft-azure-data-scientist-associate-dp-100-exam-tips)
+1️⃣ [Navigating your data career as a millenial or post millenial](https://www.linkedin.com/learning/navigating-your-data-analytics-career-as-a-millennial-or-post-millennial)
+2️⃣ [Microsoft Azure Data Scientist Associate DP 100 Exam Tips](https://www.linkedin.com/learning/microsoft-azure-data-scientist-associate-dp-100-exam-tips)
 
 
